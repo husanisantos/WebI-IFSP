@@ -1,0 +1,37 @@
+body{
+    background-color: cadetblue;
+}
+
+table, td{
+    border: 1px solid red;
+}
+
+.fVerde{
+    background-color: green;
+}
+
+.fVermelho{
+    background-color: red;
+}
+
+.fAzul{
+    background-color: blue;
+}
+
+.fAmarelo{
+    background-color: yellow;
+}
+
+.fBranco{
+    background-color: white;
+}
+
+.esp{
+    text-align: center;
+    padding: 30px 60px;
+}
+
+.legenda{
+    text-align: center;
+    padding: 5px 8px;
+}

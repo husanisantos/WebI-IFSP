@@ -1,0 +1,30 @@
+table, th, td{
+    border: 1px solid black;
+}
+
+.linha1{
+    background-color: green;
+}
+
+.linha2{
+    background-color: lightgreen;
+}
+
+.lPreto{
+    background-color: black;
+    color: white;
+}
+
+.lCinza{
+    background-color: gray;
+    color: white;
+}
+
+.lCinza2{
+    background-color: lightgray;
+    color: white;
+}
+
+.fPreto{
+    background-color: black;
+}
